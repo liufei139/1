@@ -20,9 +20,9 @@ mybatis:
 aliyun:
   oss:
     endpoint: https://oss-cn-beijing.aliyuncs.com
-    accessKeyId: LTAI5tPccqm6apAQZE4PLvK4
-    accessKeySecret: BF6ShuNQzGXpgdBSzak1mEuVtmpYog
-    bucketName: expectremember
+    accessKeyId: xxxxxxxxxxxxxx
+    accessKeySecret: xxxxxxxxxx
+    bucketName: xxxxxxxxxx
 #开启事务管理日志
 logging:
   level:
